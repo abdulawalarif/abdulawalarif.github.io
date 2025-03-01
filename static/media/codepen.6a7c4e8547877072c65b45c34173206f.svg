@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Inspired by Stack Overflow logo -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stack Overflow logo shape in white -->
+  <path d="M18.986 21.865v-6.404h2.134V24H1.875v-8.539h2.13v6.404h15.98zM6.988 18.54l10.99 2.31.43-2.13-10.99-2.31-.43 2.13zm1.37-5.12l10.18 4.76.86-1.89-10.18-4.76-.86 1.89zm2.07-4.85l9.01 7.12 1.28-1.62-9.01-7.12-1.28 1.62zm4.01-4.35l-1.67 1.34 7.52 9.38 1.67-1.34-7.52-9.38zm-5.53-.83l-2.12.18 5.64 11.26 2.12-.18-5.64-11.26z" fill="#FFFFFF"/>
+</svg>
