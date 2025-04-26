@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29318d30.css",
+    "main.js": "/static/js/main.45cb6d0e.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/multiImageView.png": "/static/media/multiImageView.63cc4a3d98a626cce3a7.png",
+    "static/media/kokoLive.png": "/static/media/kokoLive.5293c78002c7e00739bf.png",
+    "static/media/thiApp.png": "/static/media/thiApp.a48188d0393348694e6c.png",
+    "static/media/facebookFeed.png": "/static/media/facebookFeed.8730810dab7be8770f47.png",
+    "static/media/djangoRESTFramework.png": "/static/media/djangoRESTFramework.b7b95cb24115f384a2d8.png",
+    "static/media/adminApp.png": "/static/media/adminApp.f6d45a4ea598f573e90d.png",
+    "static/media/registrationForm.png": "/static/media/registrationForm.096b1a5700be68b25302.png",
+    "static/media/userAppThumb.png": "/static/media/userAppThumb.c1b4c48d3607b332202c.png",
+    "static/media/healthDataApp.png": "/static/media/healthDataApp.58427ab6d9957a5c2288.png",
+    "static/media/expenseManagementRESTAPI.png": "/static/media/expenseManagementRESTAPI.8d6a9b086ab88aa5dcc6.png",
+    "static/media/taskManagementApp.png": "/static/media/taskManagementApp.02f136951dc214669363.png",
+    "static/media/stepperFormUI.png": "/static/media/stepperFormUI.c80e2c7fb0e6de9e4446.png",
+    "static/media/orderStatus.png": "/static/media/orderStatus.4cd2aa5f4fd233b82fe0.png",
+    "static/media/github.svg": "/static/media/github.1d94937a73172ab7f69dfcfc72a28f0a.svg",
+    "index.html": "/index.html",
+    "static/media/codepen.svg": "/static/media/codepen.6a7c4e8547877072c65b45c34173206f.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.38ca416f6febfa951de6a9089384a43e.svg",
+    "static/media/medium.svg": "/static/media/medium.dc027b410d28f7a304a4b102603c6746.svg",
+    "static/media/twitter.svg": "/static/media/twitter.95dc132b6a30972e473d5f0a8f1f1c30.svg",
+    "static/media/facebook.svg": "/static/media/facebook.f148fc8b40e6418c56aedc278930d26f.svg",
+    "static/media/mail.svg": "/static/media/mail.8813cf79ba8f21242ea75d05bfe797e2.svg",
+    "main.29318d30.css.map": "/static/css/main.29318d30.css.map",
+    "main.45cb6d0e.js.map": "/static/js/main.45cb6d0e.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29318d30.css",
+    "static/js/main.45cb6d0e.js"
+  ]
+}
